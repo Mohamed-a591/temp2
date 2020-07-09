@@ -1,0 +1,8 @@
+=========================
+== used in this design ==
+=========================
+- HTML5
+- css3
+- bootstrap
+- foontwosam
+- javascript
