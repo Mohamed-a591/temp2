@@ -464,5 +464,8 @@ footer .logo img{
         margin: 0;
         padding: 0;
     }
+    footer h5{
+        font-size: 12px;
+    }
 }
 /* end social media */
