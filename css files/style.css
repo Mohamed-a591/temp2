@@ -140,6 +140,8 @@ header nav{
 .on-scroll{
     background-color: #34495e;
     padding: 12px 30px;
+    margin: 10px 0px;
+    border-radius: 60px;
 }
 header nav .logo{
     width: 200px;
